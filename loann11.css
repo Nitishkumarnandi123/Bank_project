@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.background-container1 {
+    background-image: url(https://img.freepik.com/premium-photo/wooden-block-with-loan-text-pile-coins-green-nature-backdrop-real-estate-investment-ideas_104677-885.jpg?w=2000);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh; 
+}
+.loaning{
+    background-color: rgb(24, 41, 1);
+    color: rgb(94, 246, 193);
+}

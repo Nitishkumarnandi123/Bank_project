@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.back1img {
+    background-image: url(https://thumbs.dreamstime.com/z/hand-writing-sign-current-account-business-showcase-personal-bank-which-can-take-out-money-any-time-text-showing-word-262995851.jpg?w=992);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh; 
+}

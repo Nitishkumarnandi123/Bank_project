@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.background-container {
+    background-image: url(https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2F2aW5nc3xlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh; 
+}
+.marhading{
+    background-color: rgb(155, 162, 157);
+    color: rgb(242, 205, 120);
+}
